@@ -1,1 +1,1 @@
-Test app for Ruby on Rails course
+Test app 6 for Ruby on Rails course
